@@ -1,6 +1,6 @@
 # vaxtplaneraren
 
-[Växtplaneraren](www.vaxtplaneraren.se)
+https://www.vaxtplaneraren.se
 
 This is a webpage where you can search for flowers, save and organise them, it's simply a tool for planning your garden. I have, beside building the frontend and api, added all the data, taken all the pictures and made the flower and garden related icons. 
 
